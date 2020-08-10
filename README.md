@@ -1,0 +1,2 @@
+# lectureRaisetechAwsFull
+レイズテック講義のためのリポジトリ
