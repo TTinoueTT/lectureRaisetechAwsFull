@@ -1,0 +1,81 @@
+第1回
+内容:オリエンテーション
+URL：https://us02web.zoom.us/rec/share/4pFaNZWzxH1IHYXD5krnBag5P9_peaa80XAYqKVcyRmrn-CyoERWFtItaiTYiSE3
+アクセスパスワード: 7q.Ke5?W
+
+第2回
+内容:Rubyの概念など
+URL：https://us02web.zoom.us/rec/share/_9Vbd4vb-FFLTYGR7FD_RoE5AYX4T6a8hCMWqKAJzx7fsS9Tr8bBJz7Yn40de8wb
+アクセスパスワード: 1y!5$4gx
+
+第3回
+内容:ウェブアプリケーションの仕組みなど
+URL：https://us02web.zoom.us/rec/share/xdM2P5qpyHlOaafDxWfuUaguQ6Daeaa81iJI_fFYxEzeXhh__16fuhGykD-a-40H
+アクセスパスワード: 0Y=yC907
+
+第4回
+内容:アプリケーション編は終了、重要な箇所やわかりづらいところを解説
+URL：https://us02web.zoom.us/rec/share/utUvP5W3tV1JRJWQ6n7eYukPBqjGeaa80Xcb-_YNnUyiD1Mdfd4zwQFaFvNd-KLT
+アクセスパスワード: 3O$0%84^
+
+第5回
+内容:AWSへ。EC2とRDSについて
+URL：https://us02web.zoom.us/rec/share/vstHcYnC335IHoXd7H_iU6R5OKPqX6a82iYb_PAKy0up_OFlbpFH0-ooe-w9whfe
+アクセスパスワード: 7e!a61=Q
+
+第6回
+内容:冗長化構成
+URL：https://us02web.zoom.us/rec/share/1ItkDLfgrV5IcIHjxFHaQYciG4DVT6a8g3Qf-_BbyxnjUQQAVa_CFK5I9MsW5Poi
+アクセスパスワード: 4d!*5661
+
+第7回
+内容:CloudWatchの話、ライブコーディング(AWS VPC>EC2>RDS>Railsサーバのデプロイ>ALB設定>再度Railsサーバに接続)
+URL：https://us02web.zoom.us/rec/share/2MlQMI7PxjpJS6_dzUrVf6sqT6bUT6a8g3AerqELz0ib-m-ctaxoxbaEDTvhq2o8
+アクセスパスワード: 3U+!sNA=
+
+第8回
+内容:CloudFormationを中心に自動化の話、CloudFormerの紹介
+URL：https://us02web.zoom.us/rec/share/wtdpaL7r6lNJR6_t2G3xU68uMYfXeaa82yRP-fANmhuYvAfkUXuxN0Vcdcwfii0u
+アクセスパスワード: 8n$?@%Zw
+
+第9回
+内容:cloudformationやそれに関連するツール、serverspecについて。簡単にライブコーディング
+URL：https://us02web.zoom.us/rec/share/wOBMKLih5ntLc7OTzFicQ40HXd3ceaa81ice-aZYyx0Vl8-t4stJKyLyMq1DGAeh
+アクセスパスワード: 0R@@+9%9
+備考: 47:12(ライブコーディング開始),
+
+第10回
+内容:Cloudformationの解説や、過去にあった質問で、「これは！」といったものを取り上げ
+URL：https://us02web.zoom.us/rec/share/9-ksKYjOyj1JH8-X82j7fa0HQJbVaaa8gXBL_aELz03RMMWpwyAy6_VNlizO0J5O
+アクセスパスワード: 6T+38$H&
+
+第11回
+内容:CI、CDについて。ちょっとわかりにくいイベントトリガーなどの話も解説
+URL：https://us02web.zoom.us/rec/share/7NdRBuGtqHhLH4Hnz3vwC48jB6Ddaaa8hiVLr_MFyxsv49Qq0ZgeNjFP5jtZdyDT
+アクセスパスワード: 6R%9V#I5
+
+第12回
+内容:Docker、質問受付コーナー、nginxとunicornライブデモ
+URL：https://us02web.zoom.us/rec/share/w8J5Epiz-nJLeZ3Ex2T4dpNwRLvbX6a82iAZ-vUKnRwWGIIqSbtQBgu8BJDh6cTp
+アクセスパスワード: 7W!1^U0e
+
+第13回
+内容:Ansibleについて
+URL:https://us02web.zoom.us/rec/share/3s5Nf67y-DtJUNbByVnRQ_IkRdnleaa8hiZLrPAJmRvFk-z4LoH70c1Zm5QqsEmH
+アクセスパスワード:5^YRy!pr
+
+第14回
+内容:Ansibleのライブコーディング
+URL：https://us02web.zoom.us/rec/share/3MAyIomu5GxIR5Xwy0TiAbcYO7ziaaa813UbqPsMnhnIHRPbnCR8hwfW6FYBcEZx
+アクセスパスワード: 2Bf##SZs
+
+第14-2
+ 内容: ライブコーディングが出来なかったので質疑応答コーナー
+URL:https://us02web.zoom.us/rec/share/xsl7HYjJ2GJJcI3zsUiYZf4bTpT8eaa80ylK_6ALzBxxYXNUrzayvvrX3R77LskM
+アクセスパスワード: V?u0Fcc@
+
+第15回
+内容: Jenkinライブコーディング
+URL: https://us02web.zoom.us/rec/share/xs1bcerOp2xLWrPMyn36QoE8JYLCeaa8hyFM_fQIxUojlnP7isopb4bRDMIuY_yK
+アクセスパスワード: Q!#t1vwL
+

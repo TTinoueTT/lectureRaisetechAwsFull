@@ -88,12 +88,17 @@ URL: https://us02web.zoom.us/rec/share/3MAyIomu5GxIR5Xwy0TiAbcYO7ziaaa813UbqPsMn
 アクセスパスワード: 2Bf##SZs
 備考:
 
-extra-track 
-内容:順延のため、簡単な質問など
+第14-2 
+内容: ライブコーディングが出来なかったので質疑応答コーナー
 URL: https://us02web.zoom.us/rec/share/xsl7HYjJ2GJJcI3zsUiYZf4bTpT8eaa80ylK_6ALzBxxYXNUrzayvvrX3R77LskM
 アクセスパスワード: V?u0Fcc@
 備考:
 
-第15回：
+第15回
+内容: Jenkinライブコーディング
+URL: https://us02web.zoom.us/rec/share/xs1bcerOp2xLWrPMyn36QoE8JYLCeaa8hyFM_fQIxUojlnP7isopb4bRDMIuY_yK
+アクセスパスワード: Q!#t1vwL
+備考:
+
 第16回：
 
