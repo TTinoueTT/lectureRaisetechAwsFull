@@ -87,6 +87,9 @@ URL: https://us02web.zoom.us/rec/share/3s5Nf67y-DtJUNbByVnRQ_IkRdnleaa8hiZLrPAJm
 URL: https://us02web.zoom.us/rec/share/3MAyIomu5GxIR5Xwy0TiAbcYO7ziaaa813UbqPsMnhnIHRPbnCR8hwfW6FYBcEZx
 アクセスパスワード: 2Bf##SZs
 備考:
+  - 6:27(コントロールノードのEC2インスタンス作成)
+  - 17:50(git cloneでAnsible構成ディレクトリをコントロールノードに置く)
+  - 18:07(Ansibleインストール)
 
 第14-2 
 内容: ライブコーディングが出来なかったので質疑応答コーナー
@@ -99,6 +102,7 @@ URL: https://us02web.zoom.us/rec/share/xsl7HYjJ2GJJcI3zsUiYZf4bTpT8eaa80ylK_6ALz
 URL: https://us02web.zoom.us/rec/share/xs1bcerOp2xLWrPMyn36QoE8JYLCeaa8hyFM_fQIxUojlnP7isopb4bRDMIuY_yK
 アクセスパスワード: Q!#t1vwL
 備考:
+  
 
 第16回：
 
